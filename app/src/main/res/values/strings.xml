@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Demo application</string>
+    <string name="add_button">ADD</string>
+    <string name="report">Report</string>
+    <string name="title1">1. Water and Sanitation</string>
+    <string name="fire_department">2. Fire Department</string>
+    <string name="electricity">3. Electricity</string>
+    <string name="traffic_reports">1. Traffic Report</string>
+    <string name="word_from_officials">2. Word from Officials</string>
+    <string name="news_letter">News Letter</string>
+</resources>
